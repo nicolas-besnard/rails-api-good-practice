@@ -1,1 +1,1 @@
-# rails-api-good-practice
+# Rails: API Good Practice
